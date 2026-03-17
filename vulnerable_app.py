@@ -72,3 +72,4 @@ if __name__ == "__main__":
 # rescan trigger 3
 # rescan trigger 4
 # rescan trigger 1773757989
+# verify DynamoDB 1773759114
