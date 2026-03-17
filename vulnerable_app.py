@@ -67,3 +67,4 @@ def redirect_user():
 if __name__ == "__main__":
     # Debug mode enabled in production
     app.run(host="0.0.0.0", port=80, debug=True)
+# trigger rescan
