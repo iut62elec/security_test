@@ -70,3 +70,4 @@ if __name__ == "__main__":
 # trigger rescan
 # rescan trigger 2
 # rescan trigger 3
+# rescan trigger 4
