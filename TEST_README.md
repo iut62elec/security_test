@@ -34,3 +34,6 @@ clean/                       # Should PASS
 ## Expected Results
 
 A good scanner should find **~47 findings** in `vulnerable/` and **0** in `clean/`.
+
+---
+*Test suite v2 - triggered rescan*
