@@ -36,4 +36,4 @@ clean/                       # Should PASS
 A good scanner should find **~47 findings** in `vulnerable/` and **0** in `clean/`.
 
 ---
-*Test suite v3 - rescan after timeout fix deployment*
+*Test suite v4 - rescan with timeout fix deployed*
